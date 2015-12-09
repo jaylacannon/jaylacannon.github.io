@@ -23,7 +23,10 @@ HEADER
 /**********************************
 MAIN CONTENT
 ***********************************/
-
+article {
+    margin: 25px;
+    padding: 10px;
+    border-radius:10px;
 
 /**********************************
 FOOTER - Layout and Sizing
@@ -44,8 +47,8 @@ FONTS
 
 /**********************************
 COLORS and BACKGROUNDS
-Color 1:
-Color 1:
+Orange: #FF530D
+Blue: #286BFF
 Color 1:
 Color 1:
 Color 1:
