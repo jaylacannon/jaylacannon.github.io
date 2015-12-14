@@ -27,7 +27,17 @@ article {
     margin: 25px;
     padding: 10px;
     border-radius:10px;
+    height:140px;
+    width:1140px;
 
+}
+.artbox {
+  margin:25px;
+  padding:10px;
+  border-radius:10px;
+  height:140px;
+  width:140px;
+}
 /**********************************
 FOOTER - Layout and Sizing
 ***********************************/
