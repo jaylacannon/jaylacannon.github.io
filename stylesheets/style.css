@@ -23,21 +23,23 @@ HEADER
 /**********************************
 MAIN CONTENT
 ***********************************/
-article {
+.thumbnail {
     margin: 25px;
     padding: 10px;
     border-radius:10px;
-    height:140px;
-    width:1140px;
+    height:450px;
+    width:240px;
+}
+    
+.thumbnail {
+  background-color:#ff99ff;
+}
 
+.column {
+ background-color:#cc99ff;
 }
-.artbox {
-  margin:25px;
-  padding:10px;
-  border-radius:10px;
-  height:140px;
-  width:140px;
-}
+    
+
 /**********************************
 FOOTER - Layout and Sizing
 ***********************************/
@@ -56,7 +58,7 @@ FONTS
 
 
 /**********************************
-COLORS and BACKGROUNDS
+
 Orange: #FF530D
 Blue: #286BFF
 Color 1:
